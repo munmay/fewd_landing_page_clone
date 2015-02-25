@@ -54,7 +54,7 @@ table {
 /*Start of CS*/
 
 body{
-	background-color: gray;
+	background-color: #fff;
 	font-family: 'Roboto', sans-serif; 
 	font-size: 16px; 
 	color: #838994; 
@@ -156,4 +156,43 @@ li{
     color: white;
     margin: 0 auto; /* this did not center the button */
     margin-top: 2em;
+}
+
+
+/* Benefits */
+
+.cases {
+	padding-top: 7em;
+	width: 970px;
+	height: 70px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#devices-middle{
+	padding: 0 3em;
+}
+
+.devices-set{
+	display: inline-flex;
+	padding-bottom: 7em;
+}
+
+.benefits-icon {
+	height: 8em;
+	width: 10em;
+}
+
+.benefits-title {
+	font-size: 2.5rem;
+	font-weight: 100;
+	color: #333;
+	text-align: center;
+	padding-bottom: 2em;
+}
+
+h3{
+	padding-top: 1em;
+	font-size: 1.5em;
+	color: #333;
 }
