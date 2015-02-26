@@ -79,6 +79,7 @@ body{
 	width: 970px;
 	height: 70px;
 	margin: 0 auto;
+	border-bottom: 1px solid #eee; 
 }
 
 .content > .logo{
