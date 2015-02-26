@@ -213,8 +213,9 @@ h3{
 	border: 1px solid #aaa;
 	border-radius: 1.25rem;
 	color: #347bff;
-	width: 1.25rem;
-	height: 1.25rem;
+	width: 2rem;
+	height: 2rem;
+	padding: 7px 4px 0px 6px;
 }
 
 h4{
@@ -225,4 +226,19 @@ h4{
 h5{
 	padding-top: 1em;
 	font-size: .8em;
+}
+
+.icons{
+	font-size: 1.5em;
+	text-align: center;
+	display: inline-block;
+	padding: 0;
+}
+
+#icon-social{
+	padding: 0;
+}
+
+#icon-middle{
+	padding: 0 .5em;
 }
